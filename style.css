@@ -1,6 +1,6 @@
 body {
 
-    background: #352F5B;
+    background: #163f78;
 }
 
 .container{
@@ -21,7 +21,8 @@ input[type=text]:focus{
 
 .todos li{
     
-    background:#423a6f;
+    background:#06325c;
+    margin-top: 1px;
 }
 
 .delete {
@@ -81,7 +82,7 @@ input[type=text]:focus{
 
 .btn {
 
-    background-color:#352F5B;
+    background-color:#163f78;
     color: rgba(255,255,255,0.5);
     margin:2rem auto;
     padding:15px;
